@@ -1,0 +1,8 @@
+{
+    "login": "your login from site", 
+    "password": "your password from site",
+    "sleeps": 1, 
+    "last_saved_id": 0,
+    "decrease_count": 100,
+    "rows_in_excel": 1000
+}
